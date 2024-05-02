@@ -15,7 +15,7 @@ const About = () => {
                         <div className="grid grid-cols-3 gap-16">
                             <div>
                                 {/* Make sure to replace 'gregory.svg' with your actual image file in your public/assets/about directory */}
-                                <Image title={"Gregory Sanon"} src={"/assets/about/gregory.svg"} height={295} width={293} alt="Gregory Sanon" />
+                                <Image title={"Gregory Sanon"} src={"/assets/about/greg.png"} height={295} width={293} alt="Gregory Sanon" />
                             </div>
                             <div className="md:pr-8 col-span-2">
                                 <h1 className="text-2xl md:text-3xl font-bold leading-tight mb-12">
