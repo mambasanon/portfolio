@@ -14,7 +14,6 @@ const About = () => {
                     <Container>
                         <div className="grid grid-cols-3 gap-16">
                             <div>
-                                {/* Make sure to replace 'gregory.svg' with your actual image file in your public/assets/about directory */}
                                 <Image title={"Gregory Sanon"} src={"/assets/about/greg.png"} height={295} width={293} alt="Gregory Sanon" />
                             </div>
                             <div className="md:pr-8 col-span-2">
