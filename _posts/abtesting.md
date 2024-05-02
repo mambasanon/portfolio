@@ -1,5 +1,5 @@
 ---
-title: 'A/B testing suite for pet hospitals'
+title: 'Remote Patient Monitoring For Diabetics'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
 coverImage: '/assets/posts/abtesting/cover.svg'
 date: '2022-06-07T05:35:07.322Z'
