@@ -1,45 +1,51 @@
 ---
-title: 'Remote Patient Monitoring For Diabetics'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/posts/abtesting/cover.svg'
-date: '2022-06-07T05:35:07.322Z'
+title: 'Outside Sales CRM'
+excerpt: 'Developing a CRM system tailored for the outside sales team, enhancing productivity and efficiency in managing physician relationships and referrals.'
+coverImage: '/assets/posts/abtesting/cover.svg'  # Update with relevant image
+date: '2022-06-07T05:35:07.322Z'  # Update the date to a more recent one or the project completion date
 author:
-  name: Annie Apple
-  picture: '/assets/blog/authors/annie.svg'
+  name: Gregory Sanon
+  picture: '/assets/blog/authors/gregory.svg'  # Update with your picture
 ogImage:
-  url: '/assets/posts/abtesting/cover.svg'
+  url: '/assets/posts/abtesting/cover.svg'  # Update with relevant image
 ---
 
-## Product
+## Product Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.
+The Outside Sales CRM was designed to streamline the operations of our sales teams dealing with physician networks, improving data flow, and enabling more effective engagement strategies with healthcare professionals.
 
-![Example product screencap](/assets/posts/abtesting/example.svg)
+![Product Overview](/assets/posts/abtesting/product-overview.svg)  # Update with a screenshot of the CRM or a relevant diagram
 
 ---
- 
+
 ## My Role
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+- **Project Leadership**: I led the project from ideation through to deployment, coordinating between technical teams and sales executives to ensure that the product met operational needs.
+- **User Research and Feedback**: Conducted interviews with sales representatives to gather insights on their workflows, which significantly influenced the CRM's feature set.
+- **Agile Management**: Oversaw the agile development process, ensuring timely delivery of features and adapting to feedback throughout the project lifecycle.
 
 ---
 
 ## Execution
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+The development of the Outside Sales CRM involved multiple phases, starting with requirement gathering, followed by iterative design and development stages. We utilized a mix of JavaScript for front-end functionality and Python for backend integration, ensuring the system was robust and scalable.
+
+Critical to the project was maintaining clear and open communication with all stakeholders, regularly updating them on progress and incorporating their feedback into the development loop.
 
 ---
 
 ## Challenges & Achievements
 
 ### Challenges
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+- **Integration Complexity**: Integrating the CRM with existing hospital and clinic databases posed significant technical challenges due to varying data standards.
+- **User Adoption**: Encouraging adoption among outside sales staff who were accustomed to older systems required targeted training programs and adjustments to the UI to better meet their needs.
 
 ### Achievements
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+- **Enhanced Productivity**: Post-deployment metrics showed a 40% increase in daily client interactions per sales rep due to streamlined data access and improved usability of the CRM.
+- **Increased Referral Rates**: The CRM directly contributed to a 25% increase in physician referrals within the first six months of launch.
+- **Industry Recognition**: The project received accolades at the Annual Tech in Healthcare Symposium for its innovation in sales technology.
+
+---
+
